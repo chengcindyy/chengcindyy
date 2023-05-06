@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋 I'm Cindy, a senior college student with a passion for technology, learning, and all things creative! Welcome to my little corner of GitHub, where I share my projects and experiments in code.
+
+
 
 <!--
 **chengcindyy/chengcindyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
