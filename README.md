@@ -1,6 +1,6 @@
-👋 Hi there! I'm Cindy, a senior college student with a passion for technology, learning, and all things creative! Welcome to my little corner of GitHub, where I share my projects and experiments in code.
+👋 Hi there! I'm Cindy, a recent college graduate with a strong passion for technology, learning, and creativity. Welcome to my corner of GitHub!
 
-🎓 As I navigate my final year in college, I'm excited to explore the vast world of technology and continuously grow my skills. I'm always on the lookout for new challenges and innovative ways to solve problems, so if you see something interesting on my GitHub, feel free to reach out!
+🎓 Here, I showcase my projects and experiments in coding, reflecting the skills and knowledge I've gained through my academic journey. As I embark on my professional career, I'm excited to explore innovative solutions and contribute to the tech world.
 
 🕹️ When I'm not coding, you can find me diving into the world of gaming or immersing myself in the vibrant universes of my favorite animations. These hobbies not only fuel my imagination but also inspire me to think outside the box when tackling tech projects.
 
