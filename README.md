@@ -15,37 +15,27 @@ A Web Developer with a Strong Passion for Technology, Learning, and Creativity.
 
 I'm a **Problem Solver** | **Self-starting** | **Team Player** | **Empathetic** | **Innovative**
 
-
-
 Happy coding! 😄
 
-## :star: My Starts and Languages on Github
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chengcindyy&theme=dark&hide_border=true&count_private=true&hide=stars,issues&show_icons=true&line_height=30&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengcindyy&hide_border=true&theme=dark&layout=compact&bg_color=00000000" />
-</p>
-
-## :star: My Skill Set and Toolkits
+## :star: My Tech Stack and Toolkits
 
 <h4> :deciduous_tree: What I Experience:</h4>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,tailwind" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,npm,nextjs,vite,bootstrap,aws,github,materialui,heroku,mongodb,netlify,vscode,eclipse,idea" />
   </a>
 </p>
-<h4> :seedling: What I Know</h4>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,flutter,kotlin,sass,azure" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,vue,vuetify,jquery,anaconda,bash,docker,linux,mysql,unity" />
   </a>
@@ -59,3 +49,10 @@ Happy coding! 😄
 - [WeBuy](https://github.com/chengcindyy/WeBuy)
 - [How's My Stylist](https://github.com/chengcindyy/CSIS4175-HMS)
 - PlatStyle
+
+## :star: My Starts and Languages on Github
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chengcindyy&theme=dark&hide_border=true&count_private=true&hide=stars,issues&show_icons=true&line_height=30&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengcindyy&hide_border=true&theme=dark&layout=compact&bg_color=00000000" />
+</p>
