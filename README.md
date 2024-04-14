@@ -1,13 +1,14 @@
 
-<h1 align="center">Hey! Let's Code with Cindy</h1>
+<h1 align="center">Welcome! Let's Code with Cindy</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/visit-portfolio-brightgreen?style=for-the-badge&color=%23D7AF70&link=https%3A%2F%2Fcodingwithcindy.com%2F" />
+<p align="center"> 
   <img src="https://img.shields.io/github/followers/chengcindyy?style=for-the-badge&color=%23FF9FB2" />
   <img src="https://img.shields.io/github/created-at/chengcindyy/chengcindyy?style=for-the-badge&color=%23FBDCE2" />
 </p>
 
-> Hi, Catch the Coding Vibes at Cindy's Hub! :yellow_heart:  
+![titleGIF](/pixel-speech-bubble.gif)
+
+![dividerGIF](/ezgif-6-1d4bacd318.gif)
 
 ## :smiley_cat: About Me
 
@@ -19,7 +20,6 @@ Happy coding! 😄
 
 ## :star: My Tech Stack and Toolkits
 
-<h4> :deciduous_tree: What I Experience:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,tailwind" />
