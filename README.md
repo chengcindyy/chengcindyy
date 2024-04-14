@@ -1,28 +1,61 @@
-👋 Hi there! I'm Cindy, a recent college graduate with a strong passion for technology, learning, and creativity. Welcome to my corner of GitHub!
 
-🎓 Here, I showcase my projects and experiments in coding, reflecting the skills and knowledge I've gained through my academic journey. As I embark on my professional career, I'm excited to explore innovative solutions and contribute to the tech world.
+<h1 align="center">Hey! Let's Code with Cindy</h1>
 
-🕹️ When I'm not coding, you can find me diving into the world of gaming or immersing myself in the vibrant universes of my favorite animations. These hobbies not only fuel my imagination but also inspire me to think outside the box when tackling tech projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/visit-portfolio-brightgreen?style=for-the-badge&color=%23D7AF70&link=https%3A%2F%2Fcodingwithcindy.com%2F" />
+  <img src="https://img.shields.io/github/followers/chengcindyy?style=for-the-badge&color=%23FF9FB2" />
+  <img src="https://img.shields.io/github/created-at/chengcindyy/chengcindyy?style=for-the-badge&color=%23FBDCE2" />
+</p>
 
-🚀 As a lifelong learner, I'm eager to discover new technologies and expand my skill set. I love collaborating with others, so if you have any ideas or want to work together on a project, please don't hesitate to reach out!
+> Hi, Catch the Coding Vibes at Cindy's Hub! :yellow_heart:  
 
-📫 If you'd like to get in touch or learn more about me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chengcindyy) or send me an email at chengcindyy@gmail.com. I'm always happy to chat and make new connections!
+## :smiley_cat: About Me
+
+A Web Developer with a Strong Passion for Technology, Learning, and Creativity.
+
+I'm a **Problem Solver** | **Self-starting** | **Team Player** | **Empathetic** | **Innovative**
+
+
 
 Happy coding! 😄
 
+## :star: My Starts and Languages on Github
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chengcindyy&theme=dark&hide_border=true&count_private=true&hide=stars,issues&show_icons=true&line_height=30&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengcindyy&hide_border=true&theme=dark&layout=compact&bg_color=00000000" />
+</p>
 
-<!--
-**chengcindyy/chengcindyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :star: My Skill Set and Toolkits
 
-Here are some ideas to get you started:
+<h4> :deciduous_tree: What I Experience:</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,tailwind" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,npm,nextjs,vite,bootstrap,aws,github,materialui,heroku,mongodb,netlify,vscode,eclipse,idea" />
+  </a>
+</p>
+<h4> :seedling: What I Know</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,flutter,kotlin,sass,azure" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,vue,vuetify,jquery,anaconda,bash,docker,linux,mysql,unity" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :dart: My Projects
+- Imaginarium of vancouver **(In progress)**
+- [Lastic Online Web form](https://form.lastic.ca/customer-form)
+- [Image Convertor](https://github.com/chengcindyy/image_convertor)
+- [Book & Manage](https://booknmanage.codingwithcindy.com)
+- [WeBuy](https://github.com/chengcindyy/WeBuy)
+- [How's My Stylist](https://github.com/chengcindyy/CSIS4175-HMS)
+- PlatStyle
