@@ -64,11 +64,17 @@ Cindy Cheng  |  Web Developer  |  Vancouver
 If you have any collaboration opportunities or think there might be a job opportunity that suits me, please do not hesitate to get in touch! I am always open to new challenges and opportunities.
 
 <p align="center"> 
+   <a href="https://codingwithcindy.com/">
+    <img src="https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=protodotio&logoColor=white&color=%23462749" />
+  </a>
   <a href="mailto:cindy.cheng@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chengcindyy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://www.instagram.com/cindyc_cc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
