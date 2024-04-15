@@ -52,7 +52,7 @@ Cindy Cheng  |  Web Developer  |  Vancouver
 
 ## :dart: My Projects
 - Imaginarium of vancouver **(In progress)**
-- [Lastic Online Web form](https://form.lastic.ca/customer-form)
+- [Lastic Online Web form](https://form.lastic.ca/)
 - [Image Convertor](https://github.com/chengcindyy/image_convertor)
 - [Book & Manage](https://booknmanage.codingwithcindy.com)
 - [WeBuy](https://github.com/chengcindyy/WeBuy)
