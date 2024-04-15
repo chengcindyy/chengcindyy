@@ -14,7 +14,7 @@
 
 Cindy Cheng  |  Web Developer  |  Vancouver
 
-:pushpin: ***Strong Passion for Technology, Learning, and Problem Solving.***
+> ***Strong Passion for Technology, Learning, and Problem Solving.***
 
 :book: PBD in Computer and Information System - Emerging Technology
 
