@@ -20,6 +20,15 @@ Cindy Cheng  |  Web Developer  |  Vancouver
 
 :bulb: Open to collaborating on projects and innovative ideas.
 
+## :dart: My Projects
+- Imaginarium of vancouver **(In progress)**
+- [Lastic Online Web form](https://form.lastic.ca/)
+- [Image Convertor](https://github.com/chengcindyy/image_convertor)
+- [Book & Manage](https://booknmanage.codingwithcindy.com)
+- [WeBuy](https://github.com/chengcindyy/WeBuy)
+- [How's My Stylist](https://github.com/chengcindyy/CSIS4175-HMS)
+- PlatStyle
+
 ## :star: My Starts and Languages on Github
 
 <p align="center">
@@ -49,15 +58,6 @@ Cindy Cheng  |  Web Developer  |  Vancouver
     <img src="https://skillicons.dev/icons?i=bash,py,cs,gcp,docker,mysql,anaconda,unity" />
   </a>
 </p>
-
-## :dart: My Projects
-- Imaginarium of vancouver **(In progress)**
-- [Lastic Online Web form](https://form.lastic.ca/)
-- [Image Convertor](https://github.com/chengcindyy/image_convertor)
-- [Book & Manage](https://booknmanage.codingwithcindy.com)
-- [WeBuy](https://github.com/chengcindyy/WeBuy)
-- [How's My Stylist](https://github.com/chengcindyy/CSIS4175-HMS)
-- PlatStyle
 
 ## :pushpin: Get in Touch
 
