@@ -21,8 +21,9 @@ Cindy Cheng  |  Web Developer  |  Vancouver
 :bulb: Open to collaborating on projects and innovative ideas.
 
 ## :dart: My Projects
+- [Plantloop Biotech Corporation](https://plantloopbiotech.com/) **(In progress)**
 - Imaginarium of vancouver **(In progress)**
-- [Lastic Online Web form](https://form.lastic.ca/)
+- [csv-convertor](https://github.com/chengcindyy/csv-convertor)
 - [Image Convertor](https://github.com/chengcindyy/image_convertor)
 - [Book & Manage](https://booknmanage.codingwithcindy.com)
 - [WeBuy](https://github.com/chengcindyy/WeBuy)
