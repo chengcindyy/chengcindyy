@@ -12,7 +12,7 @@
 
 ## :sparkles: About Me
 
-Cindy Cheng  |  Web Developer  |  Vancouver
+Cindy Cheng  |  Aspiring Product Security Analyst ｜ Full-Stack Dev Background | Vancouver
 
 > ***Strong Passion for Technology, Learning, and Problem Solving.***
 
@@ -21,14 +21,23 @@ Cindy Cheng  |  Web Developer  |  Vancouver
 :bulb: Open to collaborating on projects and innovative ideas.
 
 ## :dart: My Projects
-- [Plantloop Biotech Corporation](https://plantloopbiotech.com/) **(In progress)**
-- Imaginarium of vancouver **(In progress)**
+- [Kali & Mint Security Labs](https://github.com/chengcindyy/kali-mint-notes-and-scripts)
+  *Bash scripts & notes from Linux security labs (log analysis, brute-force, automation)*
+- [Plantloop Biotech Corporation](https://plantloopbiotech.com/)
+  *Full-stack company site (React, Next.js, MongoDB, AWS Cognito)*
 - [csv-convertor](https://github.com/chengcindyy/csv-convertor)
+  *Java tool to clean & convert CSV with UI*
 - [Image Convertor](https://github.com/chengcindyy/image_convertor)
+  *Java tool to preview, compress, and convert images (JPG/PNG)*
 - [Book & Manage](https://booknmanage.codingwithcindy.com)
+  *Web booking app with MongoDB*
 - [WeBuy](https://github.com/chengcindyy/WeBuy)
+  *E-commerce web app with product listing, cart, and checkout (React + Firebase)*
 - [How's My Stylist](https://github.com/chengcindyy/CSIS4175-HMS)
-- PlatStyle
+  *Hair stylist appointment system with scheduling, search, and login features*
+- [PlatStyle](https://github.com/chengcindyy/platstyle)
+  *Connects hairstylists and clients through a service showcase and booking portal*
+
 
 ## :star: My Starts and Languages on Github
 
@@ -40,25 +49,25 @@ Cindy Cheng  |  Web Developer  |  Vancouver
 ## :gem: My Tech Stack and Toolkits
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,tailwind" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=bash,py,powershell,linux,docker" />
 </p>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,npm,nextjs,vite,bootstrap,materialui,mongodb,firebase" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,github,markdown,anaconda" />
 </p>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,aws,github,heroku,netlify" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind" />
 </p>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,py,cs,gcp,docker,mysql,anaconda,unity" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,npm,bootstrap,materialui" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,heroku" />
+</p>
+
 
 ## :pushpin: Get in Touch
 
