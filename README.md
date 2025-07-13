@@ -23,6 +23,8 @@ Cindy Cheng  |  Aspiring Product Security Analyst ｜ Full-Stack Dev Background 
 ## :dart: My Projects
 - [Kali & Mint Security Labs](https://github.com/chengcindyy/kali-mint-notes-and-scripts)
   *Bash scripts & notes from Linux security labs (log analysis, brute-force, automation)*
+- [Customer Churn Prediction](https://github.com/chengcindyy/customer-churn-prediction)
+  *Predicts telecom churn using SVM and Decision Tree (scikit-learn)*
 - [Plantloop Biotech Corporation](https://plantloopbiotech.com/)
   *Full-stack company site (React, Next.js, MongoDB, AWS Cognito)*
 - [csv-convertor](https://github.com/chengcindyy/csv-convertor)
