@@ -25,6 +25,8 @@ Cindy Cheng  |  Aspiring Product Security Analyst ｜ Full-Stack Dev Background 
   *Bash scripts & notes from Linux security labs (log analysis, brute-force, automation)*
 - [Customer Churn Prediction](https://github.com/chengcindyy/customer-churn-prediction)
   *Predicts telecom churn using SVM and Decision Tree (scikit-learn)*
+- [CSharp-GradeCalculator](https://github.com/chengcindyy/CSharp-GradeCalculator)
+  *C# console and GUI projects for student GPA tools, built to demonstrate programming fundamentals.*
 - [Plantloop Biotech Corporation](https://plantloopbiotech.com/)
   *Full-stack company site (React, Next.js, MongoDB, AWS Cognito)*
 - [csv-convertor](https://github.com/chengcindyy/csv-convertor)
@@ -45,7 +47,7 @@ Cindy Cheng  |  Aspiring Product Security Analyst ｜ Full-Stack Dev Background 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chengcindyy&theme=dark&hide_border=true&count_private=true&hide=stars,issues,contribs&show_icons=true&rank_icon=percentile&line_height=30&bg_color=00000000&show=prs_merged,prs_merged_percentage" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengcindyy&hide_border=true&theme=dark&layout=compact&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengcindyy&hide_border=true&theme=dark&layout=compact&bg_color=00000000&cache_seconds=30" />
 </p>
 
 ## :gem: My Tech Stack and Toolkits
