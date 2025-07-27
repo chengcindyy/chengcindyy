@@ -51,91 +51,30 @@ Cindy Cheng  |  Full-Stack Developer with a Passion for Cybersecurity
 
 ## :gem: My Tech Stack and Toolkits
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-        <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-        <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-        <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-        <img src="https://skillicons.dev/icons?i=java" title="Java" />
-        <img src="https://skillicons.dev/icons?i=python" title="Python (basic)" />        
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C# (basic)"  width="45" height="45" />             
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react" title="React" />
-        <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-        <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-        <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-        <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
-       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/radixui.svg" title="Radix UI" width="45" height="45" style="background-color: #1e1e1e; padding: 6px; border-radius: 8px;" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-        <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-        <img src="https://skillicons.dev/icons?i=npm" title="npm" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Atlas" />
-        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL (school project)" />
-        <img src="https://skillicons.dev/icons?i=firebase" title="Firebase  (school project)" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & Platforms</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=aws" title="AWS Cognito / Amplify" />
-        <img src="https://skillicons.dev/icons?i=heroku" title="Heroku" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>DevOps & Tools</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git" title="Git" />
-        <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-        <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-        <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ" />
-        <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Environments</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=linux" title="Linux (Kali / Mint)" />
-        <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-        <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
-        <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Security & Labs</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=python" title="Python (lab)" />
-        <img src="https://skillicons.dev/icons?i=bash" title="Bash (lab)" />       
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/radixui.svg" title="Radix UI" width="40" height="40" style="background-color:#1e1e1e; padding:6px; border-radius:8px;" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Atlas" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS Cognito / Amplify" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+</p>
 
 ## :star: My Starts and Languages on Github
 
